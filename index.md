@@ -2,16 +2,15 @@
 layout: default
 ---
 
-(description-2)
+This is a page for my Ph.D. study, interest activities, etc.  
+You can find my ORCiD profile [here](https://orcid.org/0000-0002-1211-7850).
 
-# Takuro Fujino / MeF
+# CMB Observation
 
-## CMB Observation
+# Python
 
-## Python
+# Vim
 
-## Vim
-
-## Misc.
+# Misc.
 
 
