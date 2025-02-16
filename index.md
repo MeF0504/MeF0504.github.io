@@ -2,12 +2,14 @@
 layout: default
 ---
 
-# CMB Observation
+# Takuro Fujino / MeF
 
-# Python
+## CMB Observation
 
-# Vim
+## Python
 
-# Misc.
+## Vim
+
+## Misc.
 
 
