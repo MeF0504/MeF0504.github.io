@@ -1,12 +1,7 @@
-# Takuro Fujino / MeF[0504]
+# MeF0504.github.io
+
+Home page of MeF0504  
 
 https://mef0504.github.io/
 
-## CMB Observation
-
-## Python
-
-## Vim
-
-## Misc.
-
+ref: https://docs.github.com/ja/pages/getting-started-with-github-pages/about-github-pages
