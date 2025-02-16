@@ -1,4 +1,12 @@
-# MeF0504.github.io
-html repository
+# Takuro Fujino / MeF[0504]
 
--> https://mef0504.github.io/
+https://mef0504.github.io/
+
+## CMB Observation
+
+## Python
+
+## Vim
+
+## Misc.
+
