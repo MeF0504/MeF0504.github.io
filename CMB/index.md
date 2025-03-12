@@ -4,10 +4,9 @@ The Cosmic Microwave Background (CMB) is background radiation coming from the er
 It is evidence of the Big Bang theory.
 
 The linear polarization of CMB informs us further about the universe.
-The $E$-mode polarization could tell us about the optical depth.
-The sub-degree-scale $B$-mode polarization can inform the sum of neutrino mass via gravitational lensing.
-The degree-scale $B$-mode polarization can be used to test the theory of cosmological inflation.
-<!-- Moreover, the polarization of CMB can be used to test the theory of cosmological inflation. -->
+The _E_-mode polarization could tell us about the optical depth.
+The sub-degree-scale _B_-mode polarization can inform the sum of neutrino mass via gravitational lensing.
+The degree-scale _B_-mode polarization can be used to test the theory of cosmological inflation.
 
 ## Half-Wave Plate
 
