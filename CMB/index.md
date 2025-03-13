@@ -21,3 +21,8 @@ Moreover, we can search for the circular polarization signal by using the leakag
     - (source code: https://github.com/MeF0504/basic_setup/blob/master/misc/hwp_image.py )
 - [Table of HWP modulation](halfwaveplate_modulate.pdf)
     - (source code: https://github.com/MeF0504/basic_setup/blob/master/misc/hwp_table.py )
+
+## List of Papers relating Circular Polarization of CMB
+
+is [here](CP_list.html)
+(I will update if I have time!)
