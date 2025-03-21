@@ -8,6 +8,17 @@ The _E_-mode polarization could tell us about the optical depth.
 The sub-degree-scale _B_-mode polarization can inform the sum of neutrino mass via gravitational lensing.
 The degree-scale _B_-mode polarization can be used to test the theory of cosmological inflation.
 
+## List of papers
+1. Characterization of a half-wave plate for cosmic microwave background circular polarization measurement with POLARBEAR
+    - [doi](https://doi.org/10.1063/5.0140088), [arXiv](https://arxiv.org/abs/2301.01983)
+2. A Measurement of Atmospheric Circular Polarization with POLARBEAR
+    - [doi](https://doi.org/10.3847/1538-4357/ada89b), [arXiv](https://arxiv.org/abs/2410.18154)
+3. 博士論文 (Ph.D. thesis)
+    - 連続回転半波長板による円偏光観測手法の開発とPOLARBEAR 実験での大気円偏光検出による検証
+    - Development of circular polarization measurement method with continuously rotating half-wave plate and its validation with detection of atmospheric circular
+polarization with POLARBEAR
+    - Not published yet
+
 ## Half-Wave Plate
 
 A half-wave plate (HWP) is an optical device that creates an optical path difference of half of the wavelength.
