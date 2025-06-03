@@ -17,7 +17,7 @@ The degree-scale _B_-mode polarization can be used to test the theory of cosmolo
     - 連続回転半波長板による円偏光観測手法の開発とPOLARBEAR 実験での大気円偏光検出による検証
     - Development of circular polarization measurement method with continuously rotating half-wave plate and its validation with detection of atmospheric circular
 polarization with POLARBEAR
-    - Not published yet
+    - [doi](https://doi.org/10.18880/0002001901), [Univ.](https://ynu.repo.nii.ac.jp/records/2001901)
 
 ## Half-Wave Plate
 
