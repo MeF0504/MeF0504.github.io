@@ -1,4 +1,10 @@
 title: Takuro Fujino / MeF[0504]
-description: [ORCiD](https://orcid.org/0000-0002-1211-7850), [GitHub](https://github.com/MeF0504)
+description: { { page.description } }
 theme: jekyll-theme-cayman
 # https://pages.github.com/themes/
+exclude:
+  - README.md
+  - LICENSE.txt
+  - .gitignore
+show_downloads: true
+lang: ja
