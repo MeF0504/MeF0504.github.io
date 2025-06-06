@@ -1,10 +1,11 @@
 title: Takuro Fujino / MeF[0504]
-description: { { page.description } }
+description: Takuro Fujino / MeF0504 Home Page
 theme: jekyll-theme-cayman
+repository: MeF0504/mef0504.github.io
 # https://pages.github.com/themes/
 exclude:
   - README.md
   - LICENSE.txt
   - .gitignore
-show_downloads: true
+show_downloads: false
 lang: ja

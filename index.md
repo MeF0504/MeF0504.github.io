@@ -1,6 +1,5 @@
 ---
 layout: default
-description: 
 ---
 
 This is a page for my Ph.D. study, interest activities, etc.  
