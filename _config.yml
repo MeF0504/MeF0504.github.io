@@ -9,3 +9,5 @@ exclude:
   - .gitignore
 show_downloads: false
 lang: ja
+github:
+  is_project_page: true
