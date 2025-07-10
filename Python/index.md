@@ -12,6 +12,6 @@ Zenn: [MeF0504](https://zenn.dev/mef0504)
 - [where target](https://github.com/MeF0504/where_target)
     - A script that calculates the location of stars, planets, and so on over the sky. 
 
-# Notes
+# Articles
 
 - [Pythonのargparseでオプション引数を動的に変える話](https://zenn.dev/mef0504/articles/9e8b163536e259)
