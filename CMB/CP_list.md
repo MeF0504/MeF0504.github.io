@@ -51,7 +51,11 @@
 - Probing Lorentz-violating electrodynamics with CMB polarization
     - [L. Caloni et al., 2023](https://doi.org/10.1088/1475-7516/2023/03/018)
 - Constraining circular polarization of high-frequency gravitational waves with CMB
-    - [A. Kushwaha, R. K. Jain, 2025](https://arxiv.org/abs/2502.12517)
+    - [A. Kushwaha and R. K. Jain, 2025](https://arxiv.org/abs/2502.12517)
+- Probing Axion-Photon conversion via circular polarization imprints in the CMB V-mode observations
+    - [A. Kushwaha and R. K. Jain, 2025](https://arxiv.org/abs/2510.22592)
+- Polarization of the CMB in the Standard Model Extension
+    - [I. Motie et al., 2026](https://arxiv.org/abs/2601.02961)
 
 ## Experiments
 - MIPOL [R. Mainini et al., 2013](https://doi.org/10.1088/1475-7516/2013/08/033)
